@@ -1,0 +1,2 @@
+-Nyalakan xampp terlebih dahulu
+-arahkan folder/filenya ke dalam folder htdocs
